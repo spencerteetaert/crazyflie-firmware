@@ -54,6 +54,7 @@ cffirmware = Extension(
     extra_compile_args=[
         "-O3",
         "-D__fp16=uint16_t",
+        "-std=gnu11"
     ],
 )
 

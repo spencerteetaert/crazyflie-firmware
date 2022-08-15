@@ -7,7 +7,8 @@ the Crazyflie 2.X and the Roadrunner. This project is meant for simulation of on
 Clone this repo 
 
 ```
-git clone https://github.com/spencerteetaert/crazyflie-firmware.git --single_branch --branch=python_wrapper
+git clone https://github.com/spencerteetaert/crazyflie-firmware.git --single-branch --branch=python_wrapper
+cd crazyflie-firmware/
 ```
 
 Initialize sub repositories 
